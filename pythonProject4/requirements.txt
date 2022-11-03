@@ -1,0 +1,14 @@
+django==4.1.2
+pillow==9.2.0
+asgiref==3.5.2
+numpy==1.23.4
+opencv-python==4.6.0.66
+packaging==21.3
+pip==21.3.1
+pyparsing==3.0.9
+pytesseract==0.3.10
+pyzbar==0.1.9
+setuptools==60.2.0
+sqlparse==0.4.3
+tzdata==2022.5
+wheel==0.37.1
